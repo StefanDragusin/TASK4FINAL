@@ -1,5 +1,7 @@
-Pentru mai multe detalii accesati: https://site-pa.netlify.app/proiecte/game_of_life/#task1
-Asigurati-va ca aveti instalata comanda 'gcc'
+# Pentru mai multe detalii accesati: https://site-pa.netlify.app/proiecte/game_of_life/#task1
+
+`Asigurati-va ca aveti instalata comanda 'gcc'`
+
 regula_B()/regula_clasica() - in functie de nod, se aplica una dintre reguli construieste
 creeaza_nod(), construieste_arbore(), elibereaza_arbore() - sunt functii pentru arborele de generatii(creare nod, constructie arbore si eliberare memorie)
 este_vecin() - verifica daca 2 celule sunt vecine
